@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Product Specs</name>
+   <tag></tag>
+   <elementGuidId>9ab164c8-0cf1-4b01-8df8-48e6c2cdacfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='homePageResourcesBar-1']/section/div/div[2]/ul/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d2f1c608-d045-4e1d-a332-93b6c83b6806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Product Specs</value>
+      <webElementGuid>cb29fc51-d6e0-4457-931c-ac7dc7026fc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;homePageResourcesBar-1&quot;)/section[@class=&quot;homepage-popular-resources blade theme-light-1 solid&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;button-list visible&quot;]/ul[1]/li[@class=&quot;col-xs-6 col-sm-2&quot;]/a[@class=&quot;icon&quot;]/span[1]</value>
+      <webElementGuid>17e90daf-0a3f-4763-9caa-6a196d43661c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='homePageResourcesBar-1']/section/div/div[2]/ul/li[2]/a/span</value>
+      <webElementGuid>c1158690-b0c3-4227-9b3a-0b91f57c3d6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div[2]/ul/li[2]/a/span</value>
+      <webElementGuid>84b08ea9-9c7e-4b9b-a274-9065aea13f26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Product Specs' or . = 'Product Specs')]</value>
+      <webElementGuid>80ea4022-52db-4723-a9a2-368f5977a347</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_AI Software Solutions</name>
+   <tag></tag>
+   <elementGuidId>6f6a41eb-931f-44f3-ad7f-40228d633318</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='linklistblade-1']/section/div/div/div[4]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>642010a1-2c29-4429-ba5b-6413e66db895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/content/www/us/en/software/software-overview/ai-solutions.html</value>
+      <webElementGuid>7faee64c-fe11-40f9-89b2-90a94dc7f1b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AI Software Solutions</value>
+      <webElementGuid>6c758a9f-6513-4c0f-9fb2-fd97db53fc7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;linklistblade-1&quot;)/section[@class=&quot;blade blade-list solid white theme-light-default intel-ws link-default ws-comp-standard-padding&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;blade-item col-xs-12 col-ms-6 col-sm-4 col-md-3 col-lg-3 col-xl-3&quot;]/ul[@class=&quot;action-links-contentitem&quot;]/li[1]/a[1]</value>
+      <webElementGuid>9b88c141-94ac-4eb0-8a7d-90ed0a65a062</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='linklistblade-1']/section/div/div/div[4]/ul/li/a</value>
+      <webElementGuid>b7961d91-9d03-442e-9c4b-d4d5fc65432b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'AI Software Solutions')]</value>
+      <webElementGuid>1ca27b4f-dbb6-46ea-b225-0f61ddf3ccdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/content/www/us/en/software/software-overview/ai-solutions.html')])[2]</value>
+      <webElementGuid>83200235-c6a7-45ba-99fa-c1b22085916f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li/a</value>
+      <webElementGuid>8a1953f8-4807-4f19-b1bd-b5c73c9999c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/content/www/us/en/software/software-overview/ai-solutions.html' and (text() = 'AI Software Solutions' or . = 'AI Software Solutions')]</value>
+      <webElementGuid>e49a64e1-d6f9-4b52-b097-b34843be29bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

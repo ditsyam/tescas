@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Intel Core Ultra processors (Series 1)</name>
+   <tag></tag>
+   <elementGuidId>4ee696a0-cdef-4144-932b-594c50d4703d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-selector-1']/div[35]/div/div/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d6fff730-3e0d-4d32-9cfb-30e94095bb8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ark-accessible-color</value>
+      <webElementGuid>60bff5f2-d6a2-4ba4-b080-f3eaa560e13c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/content/www/us/en/ark/products/series/236803/intel-core-ultra-processors-series-1.html</value>
+      <webElementGuid>2bb1d157-f42d-4ce9-981e-bd93dae119ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Intel® Core™ Ultra processors (Series 1)</value>
+      <webElementGuid>ba610422-40e4-4169-bd30-70bc31a15519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-selector-1&quot;)/div[@class=&quot;products processors&quot;]/div[@class=&quot;product-row&quot;]/div[@class=&quot;product third-1 half-1&quot;]/span[@class=&quot;name&quot;]/a[@class=&quot;ark-accessible-color&quot;]</value>
+      <webElementGuid>fd0d84a3-e176-4b7f-83c5-cf6b55d8de1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-selector-1']/div[35]/div/div/span/a</value>
+      <webElementGuid>00a76898-61a1-43b5-963d-fb3ea1dde012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Intel® Core™ Ultra processors (Series 1)')]</value>
+      <webElementGuid>637bab14-f43d-458f-96b5-fd5412648115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/content/www/us/en/ark/products/series/236803/intel-core-ultra-processors-series-1.html')]</value>
+      <webElementGuid>b6e56982-68c6-47f5-b0c2-2b9b6f3b9495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[35]/div/div/span/a</value>
+      <webElementGuid>12e49382-06a7-483c-91c6-ebe71e3ad807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/content/www/us/en/ark/products/series/236803/intel-core-ultra-processors-series-1.html' and (text() = 'Intel® Core™ Ultra processors (Series 1)' or . = 'Intel® Core™ Ultra processors (Series 1)')]</value>
+      <webElementGuid>a7cbc4df-f75e-4af8-b650-cc8763c75898</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

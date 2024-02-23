@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Processors</name>
+   <tag></tag>
+   <elementGuidId>e8eb0e13-1108-4607-94fb-7f5fea72f4eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ark-accessible-color.col-xs-12.col-sm-6.col-md-4.product-category.with-icons</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-selector-1']/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>12b16887-b017-4734-a0bf-cf83032f9653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ark-accessible-color col-xs-12 col-sm-6 col-md-4 product-category with-icons</value>
+      <webElementGuid>4eeb9491-a4da-4b2a-ada8-5cbaaddb97b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-order</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>db6a679a-a2fa-4f88-8c9f-f16d698b7bc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hash-value</name>
+      <type>Main</type>
+      <value>Processors</value>
+      <webElementGuid>cdc0cdb7-a66a-4bf6-b75f-55eab39edd72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-panel-key</name>
+      <type>Main</type>
+      <value>Processors</value>
+      <webElementGuid>7632c5eb-703c-44e8-b002-d44904c4ff27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wap_ref</name>
+      <type>Main</type>
+      <value>processors</value>
+      <webElementGuid>1c85b2da-b3af-4375-9e02-d0146c616df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    
+                    Processors
+                </value>
+      <webElementGuid>02a03415-a8db-4c28-9df2-c27b3bc02474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-selector-1&quot;)/div[@class=&quot;product-categories product-categories-1&quot;]/div[@class=&quot;row category-row&quot;]/div[@class=&quot;ark-accessible-color col-xs-12 col-sm-6 col-md-4 product-category with-icons&quot;]</value>
+      <webElementGuid>980a9f62-7547-4564-9aad-1a2e0072bde5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-selector-1']/div[2]/div/div</value>
+      <webElementGuid>21f196d4-408e-49c9-b42f-4bc69cac1783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>020c0d79-63e6-4e41-8a25-3bc55f4545c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                    
+                    Processors
+                ' or . = '
+                    
+                    Processors
+                ')]</value>
+      <webElementGuid>588de00d-acf5-4705-ab2c-f6c505970333</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

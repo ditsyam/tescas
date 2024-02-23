@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Learn More</name>
+   <tag></tag>
+   <elementGuidId>d5ed16af-ccc6-4216-ac42-2b693c135e76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='udel1l2Template-1']/div[3]/div[6]/div/div/div/div[2]/div/div/div[4]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fd9a0a95-99e1-49e8-9e0f-81833933b709</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-component</name>
+      <type>Main</type>
+      <value>atomCta</value>
+      <webElementGuid>969589b6-7a14-4fb7-a5da-974e8df022df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-component-id</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>a122b03f-53bf-43d1-9517-9d77aa48ba9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary no-arrow</value>
+      <webElementGuid>4a6e71b2-5a91-480e-9505-65bea97a0fb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/content/www/us/en/developer/articles/reference-implementation/ai-connect-for-scientific-data.html</value>
+      <webElementGuid>cfb6549a-6712-47b4-b1a4-35451070a544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learn More</value>
+      <webElementGuid>e3e79dcb-9df6-4062-af84-d03b2be8bef1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;udel1l2Template-1&quot;)/div[@class=&quot;par intelparsys&quot;]/div[@class=&quot;twoColumn section&quot;]/div[@class=&quot;component two-column fifty-fifty intro-text-blade intel-ws link-default force-background solid  white theme-light-default disabled-bg-video&quot;]/div[@class=&quot;twoColumn-container-wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;flex-col-wrap&quot;]/div[@class=&quot;col-1 left&quot;]/div[@class=&quot;twocolumnpar-one intelparsys&quot;]/div[@class=&quot;atomCta section&quot;]/div[1]/a[@class=&quot;btn btn-primary no-arrow&quot;]</value>
+      <webElementGuid>229461f7-7954-4cba-a092-9d2cf7e1f374</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='udel1l2Template-1']/div[3]/div[6]/div/div/div/div[2]/div/div/div[4]/div/a</value>
+      <webElementGuid>589588bd-9913-45d8-8f18-0dd074515d5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Learn More')]</value>
+      <webElementGuid>9e0fab4b-2136-4ecf-b874-64c2334a818c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/content/www/us/en/developer/articles/reference-implementation/ai-connect-for-scientific-data.html')]</value>
+      <webElementGuid>22ce5d86-dedc-42f7-80a0-bafc067f291f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div[2]/div/div/div[4]/div/a</value>
+      <webElementGuid>b0144de4-8f04-49dc-8f1c-5fab4db79c51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/content/www/us/en/developer/articles/reference-implementation/ai-connect-for-scientific-data.html' and (text() = 'Learn More' or . = 'Learn More')]</value>
+      <webElementGuid>057c6b34-4677-4079-9298-fc02642ae578</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

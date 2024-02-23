@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Intel Delivers Extreme Value to Partners</name>
+   <tag></tag>
+   <elementGuidId>23fd05e3-4d77-4217-a671-86a90094ecdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='multiasset-1']/section/div[2]/div/div/div/div[2]/h2/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f2e99be5-2059-4685-aff0-615ada5e41d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.youtube.com/watch?v=NMN3GPNQTgE&amp;list=PLj-81kG3zG5Z_wAmilrfPivjtYUGEDMur</value>
+      <webElementGuid>bf985892-7906-4925-b885-32b05ecfde8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Intel Delivers Extreme Value to Partners</value>
+      <webElementGuid>5d0cae61-2a14-4f5c-b093-b8dfdaf7beb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;multiasset-1&quot;)/section[@class=&quot;l3-text-media-component blade media-top solid white intel-ws link-default theme-light-default&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row image-container&quot;]/div[@class=&quot;order-container&quot;]/div[@class=&quot;inner contentAlignmentParent&quot;]/div[@class=&quot;text-container col-xs-12 col-sm-7   clear-font&quot;]/h2[1]/a[1]</value>
+      <webElementGuid>de4151dc-512a-477a-806a-b7c6e674fda8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='multiasset-1']/section/div[2]/div/div/div/div[2]/h2/a</value>
+      <webElementGuid>00a6c5b6-ad96-4bf0-94dc-6dabc8a34786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Intel Delivers Extreme Value to Partners')]</value>
+      <webElementGuid>b391a13c-40a4-4870-b06b-4488076885d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.youtube.com/watch?v=NMN3GPNQTgE&amp;list=PLj-81kG3zG5Z_wAmilrfPivjtYUGEDMur')]</value>
+      <webElementGuid>8838ef13-2cf1-46fe-a318-95cf207c15f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a</value>
+      <webElementGuid>706b7879-33e8-475f-9758-209d4e51c17a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.youtube.com/watch?v=NMN3GPNQTgE&amp;list=PLj-81kG3zG5Z_wAmilrfPivjtYUGEDMur' and (text() = 'Intel Delivers Extreme Value to Partners' or . = 'Intel Delivers Extreme Value to Partners')]</value>
+      <webElementGuid>0355f143-7512-4028-a5b0-03f086d4e19e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

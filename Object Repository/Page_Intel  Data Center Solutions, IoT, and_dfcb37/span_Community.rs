@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Community</name>
+   <tag></tag>
+   <elementGuidId>b616e4dc-de52-4a12-a99b-c3ccf90bc7a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='homePageResourcesBar-1']/section/div/div[2]/ul/li[4]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>13a7a17d-6970-4065-9260-3fd3b10283cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Community</value>
+      <webElementGuid>e6017681-827e-475a-9cde-83b202aea4d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;homePageResourcesBar-1&quot;)/section[@class=&quot;homepage-popular-resources blade theme-light-1 solid&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;button-list visible&quot;]/ul[1]/li[@class=&quot;col-xs-6 col-sm-2&quot;]/a[@class=&quot;icon&quot;]/span[1]</value>
+      <webElementGuid>253b23d2-7564-42c4-956a-42ae3920c7fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='homePageResourcesBar-1']/section/div/div[2]/ul/li[4]/a/span</value>
+      <webElementGuid>b68fbd31-6544-4720-a88e-fd32e5293d23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div[2]/ul/li[4]/a/span</value>
+      <webElementGuid>9068d6c7-dcd5-4fee-aebe-57b3302bec4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Community' or . = 'Community')]</value>
+      <webElementGuid>3525e04d-53cd-4d41-a46e-191fa1937369</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

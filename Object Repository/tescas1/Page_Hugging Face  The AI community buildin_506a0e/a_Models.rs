@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Models</name>
+   <tag></tag>
+   <elementGuidId>a04e2fe1-d9a0-422a-a1d6-b36d7a9ed3a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@href, '/models')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>654c242e-22ac-4536-a6da-2fe4d55ff0a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group flex items-center px-2 py-0.5 dark:hover:text-gray-400 hover:text-indigo-700</value>
+      <webElementGuid>f1bbda0a-df2a-4e34-9d53-4fe6c26b82ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/models</value>
+      <webElementGuid>c87c9832-56c1-4a54-b4f9-5cf8c70bb48b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Models</value>
+      <webElementGuid>cea745fa-76fc-4885-b22c-96b8c63c132f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;flex flex-col min-h-screen bg-white dark:bg-gray-950 text-black HomePage&quot;]/div[@class=&quot;flex min-h-screen flex-col&quot;]/div[@class=&quot;SVELTE_HYDRATER contents&quot;]/header[@class=&quot;border-b border-gray-100 !border-transparent&quot;]/div[@class=&quot;w-full px-4 container flex h-16 items-center&quot;]/nav[@class=&quot;ml-auto hidden lg:block&quot;]/ul[@class=&quot;flex items-center space-x-1.5 xl:space-x-2&quot;]/li[1]/a[@class=&quot;group flex items-center px-2 py-0.5 dark:hover:text-gray-400 hover:text-indigo-700&quot;]</value>
+      <webElementGuid>ea3e536c-c938-4a17-9dc9-2fcd49496a0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/models')]</value>
+      <webElementGuid>84665289-f1d6-47f6-a4c1-2df621f291bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>817af97e-c362-41f2-8343-aa3b3edf0713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/models' and (text() = ' Models' or . = ' Models')]</value>
+      <webElementGuid>af6a96cc-d1bf-4baa-981c-4c6bb9aac732</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

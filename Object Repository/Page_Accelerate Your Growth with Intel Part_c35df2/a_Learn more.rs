@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Learn more</name>
+   <tag></tag>
+   <elementGuidId>ec88e918-cd51-4100-b195-a0a5c1781c9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='promotions-2']/section/div/header/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c3666c38-72f2-407c-ba0f-269c462df410</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/content/www/us/en/partner-alliance/membership/overview.html</value>
+      <webElementGuid>317feebc-f457-49bc-a544-fe69800bc63d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary no-arrow </value>
+      <webElementGuid>1242f8cd-3970-405f-a449-e4bf7476eacd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_top</value>
+      <webElementGuid>33d17d11-f5ed-4aa2-a6cb-bfdbd6f9f76d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learn more</value>
+      <webElementGuid>de665087-9b21-49e5-93c7-49924d2509df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;promotions-2&quot;)/section[@class=&quot;blade solid white theme-light-default intel-ws link-default blade-itemized blade-itemized-3 upe-promotion&quot;]/div[@class=&quot;container no-cursor-pointer&quot;]/header[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12  col-sm-12 col-md-12 col-xl-12  center-text&quot;]/a[@class=&quot;btn btn-primary no-arrow&quot;]</value>
+      <webElementGuid>0a43413a-71a1-497f-b540-2e2ec14950e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='promotions-2']/section/div/header/div[2]/a</value>
+      <webElementGuid>7fec1d6e-4e57-4991-b8fa-f908c20d6d3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Learn more')]</value>
+      <webElementGuid>c552ed83-1cfd-4ee2-bece-e28265af8211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/content/www/us/en/partner-alliance/membership/overview.html')])[3]</value>
+      <webElementGuid>c009e8b8-29a7-488c-af27-6e06fbdf244e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div[2]/a</value>
+      <webElementGuid>6edce69b-0ad5-4f11-afa8-5c3afa8f3b5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/content/www/us/en/partner-alliance/membership/overview.html' and (text() = 'Learn more' or . = 'Learn more')]</value>
+      <webElementGuid>90099f80-d09e-45dc-aca3-33c26fc394b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

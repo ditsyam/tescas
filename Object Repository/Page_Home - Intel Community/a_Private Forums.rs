@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Private Forums</name>
+   <tag></tag>
+   <elementGuidId>85886c65-9e48-4205-8a9e-8b15552732c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.has-children > a.top-level-link.menuitem</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='header-horizontal-nav']/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>308af044-e9bd-4115-86cd-618da33f2f72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>fcdc2196-9d0e-4ea2-987a-b8ce16ad5525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>top-level-link menuitem</value>
+      <webElementGuid>59d0198b-69d6-40e4-afe0-f21a077e3b23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d15fa271-36dc-4cff-b345-ec64fe50ffda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/t5/Private-Forums/ct-p/private-forums</value>
+      <webElementGuid>90cdb97f-775f-41cf-aea6-faf21ec800e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Private Forums</value>
+      <webElementGuid>a9db0759-6ef2-4fdf-8932-ff91e96acccc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ca005a8f-275e-43b1-abae-1d72816eba67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Private Forums</value>
+      <webElementGuid>a5ab6991-ba5f-41b7-ab9d-ed1d1a633d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-horizontal-nav&quot;)/ul[@class=&quot;custom-sub-nav visible-lg-block&quot;]/li[@class=&quot;has-children&quot;]/a[@class=&quot;top-level-link menuitem&quot;]</value>
+      <webElementGuid>a9e2c75e-77aa-4988-8240-95e58cd0f217</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='header-horizontal-nav']/ul/li[3]/a</value>
+      <webElementGuid>cbe87bc6-653d-49fc-9485-5991afdde748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Private Forums')]</value>
+      <webElementGuid>c22ab7ab-1df0-4892-a966-3eb762b7d89d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/t5/Private-Forums/ct-p/private-forums')]</value>
+      <webElementGuid>aff64557-97a1-4bf6-a308-edc0f7c03d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[3]/a</value>
+      <webElementGuid>39dae324-37c9-46dc-bf49-48295ada9d9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/t5/Private-Forums/ct-p/private-forums' and (text() = 'Private Forums' or . = 'Private Forums')]</value>
+      <webElementGuid>6f9ff3d9-906b-4b9e-95fc-4ba87e659e89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

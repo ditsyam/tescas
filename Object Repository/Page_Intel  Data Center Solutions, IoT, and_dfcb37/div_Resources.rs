@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Resources</name>
+   <tag></tag>
+   <elementGuidId>fa214c66-8530-4dd1-93b0-d9ad2187008f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu-2']/div/div/div/div/div[5]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f111e3ef-171b-457d-bd79-b072800d79ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-l3</value>
+      <webElementGuid>1ce92dd0-99de-4764-8a0c-6f9446d3705c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wap</name>
+      <type>Main</type>
+      <value>{&quot;category&quot;:&quot;solutions&quot;,&quot;sectiontype&quot;:&quot;subheading&quot;,&quot;linktype&quot;:&quot;level2&quot;}</value>
+      <webElementGuid>15c72c66-9d3d-44b4-8a0a-04a9671ee640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        
+                            Resources
+                    </value>
+      <webElementGuid>4d95e73e-0e44-4631-b605-f6d5a77d5e58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-2&quot;)/div[@class=&quot;mega-panel-wrap&quot;]/div[@class=&quot;mega-panel-body&quot;]/div[@class=&quot;mega-body-wrap&quot;]/div[@class=&quot;panel-content flex-content-wrap&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;nav-l3&quot;]</value>
+      <webElementGuid>096d46b9-ed1e-457a-a9a7-945848d041d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu-2']/div/div/div/div/div[5]/div</value>
+      <webElementGuid>4dc1fc94-d837-490d-a365-9e637f513757</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/div/div/div/div[5]/div</value>
+      <webElementGuid>be35fe32-9294-4ce1-b43b-4c552af739c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                        
+                            Resources
+                    ' or . = '
+                        
+                            Resources
+                    ')]</value>
+      <webElementGuid>a01c096c-5c4b-436c-8b4c-c64220e9dc96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

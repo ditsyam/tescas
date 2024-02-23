@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Success Stories</name>
+   <tag></tag>
+   <elementGuidId>db60a738-b986-4573-8508-66ff367523ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pageContent']/header/div[2]/div/div/div/div/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ca510c04-0580-451f-85b5-d3e8d8c398d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wap_ref</name>
+      <type>Main</type>
+      <value>Success Stories</value>
+      <webElementGuid>47827040-67ce-4c7e-b25c-4b19e58a36be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#promotions_852602570_344936863</value>
+      <webElementGuid>43098c3f-4280-4f07-9687-990a1f81f953</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Success Stories</value>
+      <webElementGuid>51f90955-f287-4c96-b2d1-922ff3d31eee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pageContent&quot;)/header[@class=&quot;has-jumplinks&quot;]/div[@class=&quot;jumplinksContainer&quot;]/div[@class=&quot;jumplinks jumplink rwd-jumplinks&quot;]/div[@class=&quot;nav-overflower spynav nav-spy component fix-depth&quot;]/div[@class=&quot;wrap-1 nav-affixer affix&quot;]/div[@class=&quot;wrap-2 overflower&quot;]/ul[@class=&quot;nav overflower-inner&quot;]/li[@class=&quot;overflower-item&quot;]/a[1]</value>
+      <webElementGuid>fd3e6f49-f361-44e0-bd60-f0ec3e3e737c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pageContent']/header/div[2]/div/div/div/div/ul/li[3]/a</value>
+      <webElementGuid>a8c86e0b-c1ed-49f6-8c21-94084f49a924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Success Stories')]</value>
+      <webElementGuid>61df668f-7efe-4ecc-b3eb-760c3780eb26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#promotions_852602570_344936863')]</value>
+      <webElementGuid>62bad273-5272-48d6-ab44-421c73534fa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/ul/li[3]/a</value>
+      <webElementGuid>82dda8d1-b540-4182-b961-0850af7b8338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#promotions_852602570_344936863' and (text() = 'Success Stories' or . = 'Success Stories')]</value>
+      <webElementGuid>b5cea9b1-8e18-41bd-bdbb-6bc814c868c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

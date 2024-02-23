@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Posts</name>
+   <tag></tag>
+   <elementGuidId>679297a2-b925-4c1c-b196-8d5b68155878</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@href, '/posts')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7fb2566e-68b0-47f9-8786-b11cde78fcb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group flex items-center px-2 py-0.5 dark:hover:text-gray-400 hover:text-yellow-700</value>
+      <webElementGuid>6d4f4ebe-a890-4b0f-b56d-a16f55f6f65f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/posts</value>
+      <webElementGuid>801df80f-4611-43cd-a833-7284326096eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Posts</value>
+      <webElementGuid>b6641d59-008b-483f-8392-52a1c6597045</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;flex flex-col min-h-screen bg-white dark:bg-gray-950 text-black SpacesPage&quot;]/div[@class=&quot;flex min-h-screen flex-col&quot;]/div[@class=&quot;SVELTE_HYDRATER contents&quot;]/header[@class=&quot;border-b border-gray-100&quot;]/div[@class=&quot;w-full px-4 container flex h-16 items-center&quot;]/nav[@class=&quot;ml-auto hidden lg:block&quot;]/ul[@class=&quot;flex items-center space-x-1.5 xl:space-x-2&quot;]/li[4]/a[@class=&quot;group flex items-center px-2 py-0.5 dark:hover:text-gray-400 hover:text-yellow-700&quot;]</value>
+      <webElementGuid>60ae01ca-e09a-4426-9638-c80ad86aebb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/posts')]</value>
+      <webElementGuid>322c263a-db93-4edd-bc0c-916d59f0e287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>dba87709-542c-46b9-9bf5-22bf5afc1700</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/posts' and (text() = ' Posts' or . = ' Posts')]</value>
+      <webElementGuid>9964684b-9488-4f33-a543-a54156876626</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

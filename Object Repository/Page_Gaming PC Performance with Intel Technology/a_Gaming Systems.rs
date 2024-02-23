@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Gaming Systems</name>
+   <tag></tag>
+   <elementGuidId>a1abc69d-01b1-4a0b-9e5b-e77ca5bc387a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navigationpageoverview-1']/div[2]/div/div/div/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8d61ff0d-1ae1-4d28-b139-d81b52170b6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wap_ref</name>
+      <type>Main</type>
+      <value>Gaming Systems</value>
+      <webElementGuid>ac71ee85-c08a-4dd0-ab57-bbde9a82cccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#marketingblock_copy__1476856065</value>
+      <webElementGuid>b0e7d126-bc2c-4436-ab57-d6816fe5636f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gaming Systems</value>
+      <webElementGuid>53272ef4-866f-4097-a445-46121cc054fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navigationpageoverview-1&quot;)/div[@class=&quot;jumplinksContainer&quot;]/div[@class=&quot;jumplinks jumplink rwd-jumplinks&quot;]/div[@class=&quot;nav-overflower spynav nav-spy component&quot;]/div[@class=&quot;wrap-1 nav-affixer affix-top&quot;]/div[@class=&quot;wrap-2 overflower&quot;]/ul[@class=&quot;nav overflower-inner&quot;]/li[@class=&quot;overflower-item&quot;]/a[1]</value>
+      <webElementGuid>a9327a85-3293-4b58-be7a-137b673116ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navigationpageoverview-1']/div[2]/div/div/div/div/ul/li[2]/a</value>
+      <webElementGuid>0e9a218f-6841-4a87-ad5e-02a8478254ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Gaming Systems')]</value>
+      <webElementGuid>f4016e5e-c622-4845-b0ce-d2b0d24cb258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#marketingblock_copy__1476856065')]</value>
+      <webElementGuid>e0b32d5b-bb67-45e3-b813-16fe1c006954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/ul/li[2]/a</value>
+      <webElementGuid>8461c224-e88a-45df-ba5d-d260bfd0a56d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#marketingblock_copy__1476856065' and (text() = 'Gaming Systems' or . = 'Gaming Systems')]</value>
+      <webElementGuid>5c43d2a8-109e-4d49-aad5-5e20ed8f294f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

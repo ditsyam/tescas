@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Learn more about Intel DSA before you download</name>
+   <tag></tag>
+   <elementGuidId>b3a9aed9-90e4-4822-b555-c5596900c94a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='supportDSAMultiStepBlade-1']/div/div/div/div/div[2]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d21e057f-416f-4f50-96e4-989e84dceb1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/content/www/us/en/support/articles/000023000/software/software-applications.html</value>
+      <webElementGuid>7ff30801-77d5-40fe-b667-3bbd503690e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learn more about Intel® DSA before you download ›</value>
+      <webElementGuid>2923ebdc-2c58-491c-91d4-e367424d7213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;supportDSAMultiStepBlade-1&quot;)/div[@class=&quot;support product-family-title1&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 icon-header&quot;]/div[@class=&quot;product-family-title-text1&quot;]/a[2]</value>
+      <webElementGuid>05f6c105-7512-4447-b4c4-a928fb5679b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='supportDSAMultiStepBlade-1']/div/div/div/div/div[2]/a[2]</value>
+      <webElementGuid>d6ecc175-8323-486e-a90c-e007347187a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Learn more about Intel® DSA before you download ›')]</value>
+      <webElementGuid>67a3bd8f-4aac-43f8-be91-e3342c7cd8d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/content/www/us/en/support/articles/000023000/software/software-applications.html')]</value>
+      <webElementGuid>f2e98776-abbd-4ec0-b689-944544fb7fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>f6cefd48-c04a-41e4-b2f3-2f80113866c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/content/www/us/en/support/articles/000023000/software/software-applications.html' and (text() = 'Learn more about Intel® DSA before you download ›' or . = 'Learn more about Intel® DSA before you download ›')]</value>
+      <webElementGuid>452d5757-99c9-4bda-b7b2-d9382bb5bdf6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

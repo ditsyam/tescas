@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Membership Tiers</name>
+   <tag></tag>
+   <elementGuidId>305dc210-de03-4781-8d23-89971e2a9bd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='promotions-1']/section/div/header/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>e31b541b-3482-4368-a146-5da70ecd4fb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Membership Tiers</value>
+      <webElementGuid>c64be8fb-3228-4df0-bfcf-a4ae5b29daf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;promotions-1&quot;)/section[@class=&quot;blade solid white theme-light-default intel-ws link-default blade-itemized blade-itemized-3 half-image upe-promotion&quot;]/div[@class=&quot;container no-cursor-pointer&quot;]/header[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12  col-sm-9 col-md-9 col-xl-9&quot;]/h2[1]</value>
+      <webElementGuid>54d9bb2b-01b7-494a-858f-8136465cb935</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='promotions-1']/section/div/header/div/h2</value>
+      <webElementGuid>aac5ff5d-687b-439e-90ed-8c47bf1d71f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/h2</value>
+      <webElementGuid>c8cb1d56-46b2-416e-a8bd-c4c7680b9df1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Membership Tiers' or . = 'Membership Tiers')]</value>
+      <webElementGuid>d29861f0-94f1-460e-aa6f-78e3b7e36055</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_fa-intel-user-o icon-toggle-off</name>
+   <tag></tag>
+   <elementGuidId>80e1400e-27a5-473d-b1d6-0808bdc8edb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa-intel-user-o.icon-toggle-off</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='not-logged-in-scenario']/button/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>be67152f-e06c-4fba-9abd-546751c17b85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-intel-user-o icon-toggle-off</value>
+      <webElementGuid>fe251754-141c-4de7-9df6-20def9fbe735</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;not-logged-in-scenario&quot;)/button[@class=&quot;nav-link-icon nav-link-icon-toggle collapsed&quot;]/span[@class=&quot;fa-intel-user-o icon-toggle-off&quot;]</value>
+      <webElementGuid>c43d7166-9939-4f63-bd82-fd7535c06e50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='not-logged-in-scenario']/button/span[2]</value>
+      <webElementGuid>53cb4536-222b-43e4-bce2-74e2062f7d80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button/span[2]</value>
+      <webElementGuid>dc16b1ca-bf11-42ba-b53b-a1b74fe0da93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

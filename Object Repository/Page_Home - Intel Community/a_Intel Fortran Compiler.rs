@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Intel Fortran Compiler</name>
+   <tag></tag>
+   <elementGuidId>48fcc9ea-fd9d-4223-8a1c-3ac24250886b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.lia-panel-content > ul > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='lia-body']/div[2]/center/div[3]/div/div/div/div/div[2]/div/div/div/div[3]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>90189353-32f6-4a69-a9bd-9a152a5544a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/t5/Intel-Fortran-Compiler/bd-p/fortran-compiler</value>
+      <webElementGuid>84d5aab4-54b6-4def-b21e-89da15ea0e0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Intel® Fortran Compiler</value>
+      <webElementGuid>b6b3b6d6-8861-4347-88a7-f4e0ef4f7aa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lia-body&quot;)/div[@class=&quot;lia-page&quot;]/center[1]/div[@class=&quot;MinimumWidthContainer&quot;]/div[@class=&quot;min-width-wrapper&quot;]/div[@class=&quot;min-width&quot;]/div[@class=&quot;lia-content&quot;]/div[@class=&quot;lia-quilt lia-quilt-community-page lia-quilt-layout-community-landing-page2021 lia-top-quilt&quot;]/div[@class=&quot;lia-quilt-row lia-quilt-row-content-teasers&quot;]/div[@class=&quot;lia-quilt-column lia-quilt-column-06 lia-quilt-column-left lia-quilt-column-left-content&quot;]/div[@class=&quot;lia-quilt-column-alley lia-quilt-column-alley-left&quot;]/div[@class=&quot;lia-panel developer&quot;]/div[@class=&quot;lia-panel-content&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>96f52895-3512-4ded-9be8-29c31a391cf8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='lia-body']/div[2]/center/div[3]/div/div/div/div/div[2]/div/div/div/div[3]/ul/li/a</value>
+      <webElementGuid>0cf599ed-8465-4dfd-a89f-e0f325055f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Intel® Fortran Compiler')]</value>
+      <webElementGuid>09693b87-b2b6-446d-a25d-79ca7cee433d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/t5/Intel-Fortran-Compiler/bd-p/fortran-compiler')]</value>
+      <webElementGuid>35cc682d-c83d-495e-8c1d-01ae608af8b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li/a</value>
+      <webElementGuid>fb793714-d75f-481d-b69d-12cbe3154c58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/t5/Intel-Fortran-Compiler/bd-p/fortran-compiler' and (text() = 'Intel® Fortran Compiler' or . = 'Intel® Fortran Compiler')]</value>
+      <webElementGuid>2a92d23f-bfc9-4b17-8568-c809f374185a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Product Information</name>
+   <tag></tag>
+   <elementGuidId>ab8854ee-e7b7-42e5-a17c-f29a9d38926f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navigationpageoverview-1']/div[2]/div/div/div/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dc42a40b-79e8-4466-82d7-9e3b7594c68a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wap_ref</name>
+      <type>Main</type>
+      <value>Product Information</value>
+      <webElementGuid>16c276e5-0bb4-4570-bf28-4a3d9699b430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#promotions</value>
+      <webElementGuid>db288f05-85c1-49e0-8b1e-b6c97839712e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Product Information</value>
+      <webElementGuid>8e73d2c0-0b27-4313-a3e8-a10559b27303</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navigationpageoverview-1&quot;)/div[@class=&quot;jumplinksContainer&quot;]/div[@class=&quot;jumplinks jumplink rwd-jumplinks&quot;]/div[@class=&quot;nav-overflower spynav nav-spy component&quot;]/div[@class=&quot;wrap-1 nav-affixer affix-top&quot;]/div[@class=&quot;wrap-2 overflower&quot;]/ul[@class=&quot;nav overflower-inner&quot;]/li[@class=&quot;overflower-item&quot;]/a[1]</value>
+      <webElementGuid>74fe873f-b340-4dec-abdf-2525df830c55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navigationpageoverview-1']/div[2]/div/div/div/div/ul/li[2]/a</value>
+      <webElementGuid>e29de5b9-050e-4488-8573-8145a1cbc450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Product Information')])[2]</value>
+      <webElementGuid>47b063e2-59e5-4914-b7af-28b8b8c2dbab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#promotions')]</value>
+      <webElementGuid>81baf558-cb09-463d-a842-74970422a409</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/ul/li[2]/a</value>
+      <webElementGuid>534660b3-c92c-4d9b-9840-548b4afa0e32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#promotions' and (text() = 'Product Information' or . = 'Product Information')]</value>
+      <webElementGuid>98a1e91f-773a-4939-82a0-15a4b550e160</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Software</name>
+   <tag></tag>
+   <elementGuidId>d5c15552-1c44-4eef-9f78-d010f105d1c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu-0']/div/div/div/div/div[2]/div[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9fdd7d13-d1c2-4412-85f1-2f1fc4a47d28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/content/www/us/en/software/software-overview.html</value>
+      <webElementGuid>d54fb1b5-00a3-4a20-8f7e-56b0ffc3c46b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-l3 has-link</value>
+      <webElementGuid>85f38b4c-6803-485e-a38d-e263f0042790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wap</name>
+      <type>Main</type>
+      <value>{&quot;category&quot;:&quot;products-home&quot;,&quot;sectiontype&quot;:&quot;subheading&quot;,&quot;linktype&quot;:&quot;level3&quot;}</value>
+      <webElementGuid>a1bf2abb-eb95-46b7-85d4-07aa85136278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    
+    Software
+</value>
+      <webElementGuid>758616fc-002a-46f6-ba7f-1ea47c2c9078</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-0&quot;)/div[@class=&quot;mega-panel-wrap&quot;]/div[@class=&quot;mega-panel-body&quot;]/div[@class=&quot;mega-body-wrap&quot;]/div[@class=&quot;mega-panel-heading&quot;]/div[@class=&quot;panel-content flex-content-wrap&quot;]/div[@class=&quot;panel-item&quot;]/a[@class=&quot;nav-l3 has-link&quot;]</value>
+      <webElementGuid>804b6608-c1eb-4dac-a600-c05320a32169</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu-0']/div/div/div/div/div[2]/div[6]/a</value>
+      <webElementGuid>ac946e6a-39d9-49d1-ab4b-59bfb9bb38b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/content/www/us/en/software/software-overview.html')]</value>
+      <webElementGuid>b5b484a9-afca-4c29-afd2-3a2f93fa3070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a</value>
+      <webElementGuid>4f2d0d07-43e6-4c92-8c71-60c9f8a8216c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/content/www/us/en/software/software-overview.html' and (text() = '
+    
+    Software
+' or . = '
+    
+    Software
+')]</value>
+      <webElementGuid>ea5a917e-9bcf-458e-b56a-e3b896f83e78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Get Started</name>
+   <tag></tag>
+   <elementGuidId>8cafd61c-f76d-4949-94a0-83740b7b585f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navigationpageoverview-1']/div[2]/div/div/div/div/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>90e1161b-f9e1-40ae-bffe-9358a21e80d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wap_ref</name>
+      <type>Main</type>
+      <value>Get Started</value>
+      <webElementGuid>3d896f7a-beff-432b-b172-09d1721b1373</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#twocolumn</value>
+      <webElementGuid>afdca2b6-ba7a-491d-9af2-3fe1033f7ee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get Started</value>
+      <webElementGuid>952c6290-cb6f-4037-8772-5d65eb739d95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navigationpageoverview-1&quot;)/div[@class=&quot;jumplinksContainer&quot;]/div[@class=&quot;jumplinks jumplink rwd-jumplinks&quot;]/div[@class=&quot;nav-overflower spynav nav-spy component fix-depth&quot;]/div[@class=&quot;wrap-1 nav-affixer affix&quot;]/div[@class=&quot;wrap-2 overflower&quot;]/ul[@class=&quot;nav overflower-inner&quot;]/li[@class=&quot;overflower-item&quot;]/a[1]</value>
+      <webElementGuid>1bc5760d-c068-41df-851f-f546a3817bb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navigationpageoverview-1']/div[2]/div/div/div/div/ul/li[3]/a</value>
+      <webElementGuid>2f575e38-78a3-4181-bd2b-53a35b7e6bf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Get Started')]</value>
+      <webElementGuid>3ed5977d-6856-43d5-829c-2d8ebc1d5c38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#twocolumn')]</value>
+      <webElementGuid>7a6452d6-ecd2-4386-816b-7ab11ebcdb5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/ul/li[3]/a</value>
+      <webElementGuid>ec0e8b83-6264-45d2-b25b-5f4fd49d5cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#twocolumn' and (text() = 'Get Started' or . = 'Get Started')]</value>
+      <webElementGuid>eb71523a-50d5-4134-a690-137aca943650</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

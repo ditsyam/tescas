@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Go to GitHub</name>
+   <tag></tag>
+   <elementGuidId>9901de2f-8c19-4802-bc3e-80d11258dea4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='articleTakeaway-1']/div/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7ef20958-0753-43fe-be7b-0e36bffff225</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>01d0b2a3-76dd-4799-955c-723977a9ca3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://github.com/intel/AICSD</value>
+      <webElementGuid>2bf49d6c-3307-47cc-9417-df10751f110c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Go to GitHub*</value>
+      <webElementGuid>178fd5c1-19d1-4e80-8c9c-6ec6e167fedd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;articleTakeaway-1&quot;)/div[@class=&quot;takeaways blade solid brand-lightest-gray&quot;]/div[@class=&quot;download-pdf&quot;]/div[@class=&quot;summary-wrap&quot;]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>d84fc257-64e6-42df-b0e1-bb785a257533</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='articleTakeaway-1']/div/div[2]/div/a</value>
+      <webElementGuid>38956bc9-3b04-48df-a71b-396bb4c31fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://github.com/intel/AICSD')]</value>
+      <webElementGuid>ffac530c-da64-4fb8-b839-35a995cb52e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div[2]/div/a</value>
+      <webElementGuid>cbd2c191-c9cf-453c-853f-7a906cfbcd5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://github.com/intel/AICSD' and (text() = 'Go to GitHub*' or . = 'Go to GitHub*')]</value>
+      <webElementGuid>0ec18663-9d43-499b-a6fc-9d04199c8f1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Intel Core Ultra 5 processor 125H</name>
+   <tag></tag>
+   <elementGuidId>c9d8db04-831a-425e-ad01-221c548da356</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.add-compare-wrap > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='product-table']/tbody/tr/td/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8cc7d368-266a-4fb3-8ee9-f906fd69bbec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/content/www/us/en/ark/products/236848/intel-core-ultra-5-processor-125h-18m-cache-up-to-4-50-ghz.html</value>
+      <webElementGuid>a08f704d-0375-42c0-8aba-b7b718df8f81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Intel® Core™ Ultra 5 processor 125H</value>
+      <webElementGuid>a45b85c6-6c85-4444-b6ec-8cdf6aa47457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-table&quot;)/tbody[1]/tr[@class=&quot;blank-table-row  seg-mobile   seg-embedded&quot;]/td[@class=&quot;ark-product-name ark-accessible-color component&quot;]/div[@class=&quot;add-compare-wrap&quot;]/a[1]</value>
+      <webElementGuid>8e02b638-4d2c-4f10-830b-250f00262902</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='product-table']/tbody/tr/td/div/a</value>
+      <webElementGuid>0bd7c18e-2c32-4e1e-a5d9-33312c048296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Intel® Core™ Ultra 5 processor 125H')]</value>
+      <webElementGuid>c519c64e-5157-4fd8-8af1-52431cb29d51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/content/www/us/en/ark/products/236848/intel-core-ultra-5-processor-125h-18m-cache-up-to-4-50-ghz.html')]</value>
+      <webElementGuid>353c93ba-e0bf-49f4-bf39-419ff729f237</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/a</value>
+      <webElementGuid>11000110-4787-421d-ba00-abb6c92b3db1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/content/www/us/en/ark/products/236848/intel-core-ultra-5-processor-125h-18m-cache-up-to-4-50-ghz.html' and (text() = 'Intel® Core™ Ultra 5 processor 125H' or . = 'Intel® Core™ Ultra 5 processor 125H')]</value>
+      <webElementGuid>dba13cb1-23c8-40bf-a312-31ebee853341</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

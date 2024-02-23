@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Industry Solutions</name>
+   <tag></tag>
+   <elementGuidId>6ff927b6-7cb9-4d0c-8faf-72c42e750e51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pageContent']/header/div[2]/div/div/div/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8f0a7041-915a-4a00-9e68-7d5992bebbec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wap_ref</name>
+      <type>Main</type>
+      <value>Industry Solutions</value>
+      <webElementGuid>17d99133-01f6-4ea5-a61f-d56670340194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#introtext_402776717</value>
+      <webElementGuid>f6872939-0de4-4bed-b572-558c4e7fa280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Industry Solutions</value>
+      <webElementGuid>b9d392e3-fff1-42ac-a7dc-fda507624c93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pageContent&quot;)/header[@class=&quot;has-jumplinks&quot;]/div[@class=&quot;jumplinksContainer&quot;]/div[@class=&quot;jumplinks jumplink rwd-jumplinks&quot;]/div[@class=&quot;nav-overflower spynav nav-spy component fix-depth&quot;]/div[@class=&quot;wrap-1 nav-affixer affix&quot;]/div[@class=&quot;wrap-2 overflower&quot;]/ul[@class=&quot;nav overflower-inner&quot;]/li[@class=&quot;overflower-item&quot;]/a[1]</value>
+      <webElementGuid>31d6f70a-d84a-421c-915f-c0d925a9a9f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pageContent']/header/div[2]/div/div/div/div/ul/li[2]/a</value>
+      <webElementGuid>a3ba320d-15e6-4280-a021-ec2ac01a7965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Industry Solutions')]</value>
+      <webElementGuid>111020dd-ea97-4d45-a5ba-1f6a9292c10a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#introtext_402776717')]</value>
+      <webElementGuid>bc3327e5-46c7-4e12-b963-0d394599f31b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/ul/li[2]/a</value>
+      <webElementGuid>542b4a93-d6c4-4ea2-9d17-0b740159b5c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#introtext_402776717' and (text() = 'Industry Solutions' or . = 'Industry Solutions')]</value>
+      <webElementGuid>c2f9607b-b6ac-4d88-9d83-14a0ae45364a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

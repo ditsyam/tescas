@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Relevant Product Support</name>
+   <tag></tag>
+   <elementGuidId>b8000bf3-f855-4a10-8624-111d2d8afa83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='supportDSAMultiStepBlade-1']/section/div/div/div[3]/div[2]/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>66722b44-d2c2-48f2-8903-145ad2216673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Relevant Product Support</value>
+      <webElementGuid>1d47c7db-2892-4d28-bcc8-369605ad09dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;supportDSAMultiStepBlade-1&quot;)/section[@class=&quot;blade blade-multistep-intro dsa-margin-bottom&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-4 multistep-intro&quot;]/div[@class=&quot;figure-copy&quot;]/h3[1]</value>
+      <webElementGuid>8ab9383c-bf2f-4214-bf14-778402b5c0f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='supportDSAMultiStepBlade-1']/section/div/div/div[3]/div[2]/h3</value>
+      <webElementGuid>3582c67d-85fa-4a0b-9a13-6df58eec9972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/h3</value>
+      <webElementGuid>4862e52c-ee2b-4470-9cd2-610d04d7fccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Relevant Product Support' or . = 'Relevant Product Support')]</value>
+      <webElementGuid>1cdb02ec-21dc-44f7-9cfc-d291d1520f2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

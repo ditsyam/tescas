@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Intel Driver  Support Assistant (Intel DSA)</name>
+   <tag></tag>
+   <elementGuidId>f5698b53-6a58-4086-9d8b-6494892c0781</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='supportDSAMultiStepBlade-1']/div/div/div/div/div[2]/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>a335540f-5770-4d1d-9648-b51391bc9958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>ea0db00b-ede4-4e28-b57e-075e2a3551b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Intel® Driver &amp; Support Assistant (Intel® DSA)</value>
+      <webElementGuid>e5dfebff-ea48-46e0-96a8-a3948ec510ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;supportDSAMultiStepBlade-1&quot;)/div[@class=&quot;support product-family-title1&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 icon-header&quot;]/div[@class=&quot;product-family-title-text1&quot;]/h1[@class=&quot;h1&quot;]</value>
+      <webElementGuid>dcd5b640-57e3-4f7e-b940-f7211ba232b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='supportDSAMultiStepBlade-1']/div/div/div/div/div[2]/h1</value>
+      <webElementGuid>ab671e0e-5a6f-4e59-b5f6-b3b359b4214b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>b4d779d1-4f63-4219-90d7-cbeb7ec94d6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Intel® Driver &amp; Support Assistant (Intel® DSA)' or . = 'Intel® Driver &amp; Support Assistant (Intel® DSA)')]</value>
+      <webElementGuid>edad2a3a-c292-4e2e-a66d-4228ca9af142</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Get started</name>
+   <tag></tag>
+   <elementGuidId>e7fb7178-c6cd-4a02-89dd-c16c0f5d864e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary.no-arrow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='calltoaction-1']/div/div/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>49c45a86-c5b5-494b-b85b-c02b49934467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary no-arrow</value>
+      <webElementGuid>2e082489-762d-4bc5-ae21-d7b788a94f63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/content/www/us/en/support/detect.html</value>
+      <webElementGuid>92930cde-a5cd-48c9-bcd1-98ec520ff734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_top</value>
+      <webElementGuid>1535c65d-bcce-432a-84b6-37ed098a1433</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get started</value>
+      <webElementGuid>bcde67ad-9e80-4f40-a001-8d5206ef114b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calltoaction-1&quot;)/div[@class=&quot;design-assistance&quot;]/div[@class=&quot;tab-pane fade active in&quot;]/div[@class=&quot;chat-component blade intel-ws solid white theme-light-default link-default&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;rowClass&quot;]/a[@class=&quot;btn btn-primary no-arrow&quot;]</value>
+      <webElementGuid>f6e48f51-491d-4129-9a90-561d6f24b26f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='calltoaction-1']/div/div/div/div/div[2]/a</value>
+      <webElementGuid>c27136d5-57ce-413b-974f-5d8a8f0041e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Get started')]</value>
+      <webElementGuid>5559b299-b4e6-41e0-bcb3-fe49afbc69cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/content/www/us/en/support/detect.html')])[2]</value>
+      <webElementGuid>92067edd-3c0d-4b7f-bd8e-d490538785dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div[2]/a</value>
+      <webElementGuid>2c3e6f29-1cce-40d3-bc68-3f667297c1fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/content/www/us/en/support/detect.html' and (text() = 'Get started' or . = 'Get started')]</value>
+      <webElementGuid>9ed7b2de-00c6-4a44-8020-069ee6c536b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Download Center</name>
+   <tag></tag>
+   <elementGuidId>41a98006-f93a-4e9a-9cfc-64743d2cc075</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='homePageResourcesBar-1']/section/div/div[2]/ul/li[5]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0a5c379c-9f31-4795-90eb-9efdcd060640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Download Center</value>
+      <webElementGuid>5a2fd5d5-4377-4dc4-96a1-e08827ff9ed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;homePageResourcesBar-1&quot;)/section[@class=&quot;homepage-popular-resources blade theme-light-1 solid&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;button-list visible&quot;]/ul[1]/li[@class=&quot;col-xs-6 col-sm-2&quot;]/a[@class=&quot;icon&quot;]/span[1]</value>
+      <webElementGuid>5a5ed129-59fc-4c5f-a2e5-5d8c8ea7c237</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='homePageResourcesBar-1']/section/div/div[2]/ul/li[5]/a/span</value>
+      <webElementGuid>8514e44a-027e-412c-87b8-d2689049903b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div[2]/ul/li[5]/a/span</value>
+      <webElementGuid>6f9218e9-3c8c-4e60-acfb-c034de64d83f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Download Center' or . = 'Download Center')]</value>
+      <webElementGuid>b53449f2-e7fd-4355-9a6d-7f7ad3da4615</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
